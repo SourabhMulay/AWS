@@ -6,8 +6,7 @@ In any EC2-based setup, you are responsible for provisioning, configuring, and s
 
 The main benefit is in the cost and operational model. In traditional systems, you pay for servers running 24/7, even when there is no traffic. In contrast, serverless follows a pay-per-use model. When a user invokes your API, your function is executed, returns a response, and then becomes idle. You are charged only for the number of invocations and the execution time, rather than continuous uptime. This makes serverless more efficient and cost-effective, especially for applications with variable or unpredictable traffic.
 
-
 Now we were thinking of single user but suppose 1000+ users are trying to hit the same function or API (which again calls the function). so in that case serverless will do, it will create the copies of your code to handle those requests. that code is actually a AWS Lamda function. 
 
-checkout Lamda Pricing: <a href="https://aws.amazon.com/lambda/pricing/">Amazon Lamda </a>
+Checkout Lamda Pricing: <a href="https://aws.amazon.com/lambda/pricing/">Amazon Lamda </a>
 
