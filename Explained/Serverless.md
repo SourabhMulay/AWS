@@ -12,4 +12,10 @@ Checkout Lamda Pricing: <a href="https://aws.amazon.com/lambda/pricing/">Amazon 
 
 and to handle all this the framework is also available <a href = "https://www.serverless.com/"> Serverless </a>
 
+
+Here you will have option for a Lamda Function! 
+<hr>
+
 <img width="1349" height="500" alt="image" src="https://github.com/user-attachments/assets/ff162d93-ff77-4b70-ae15-b643391c6e48" />
+
+<hr>
