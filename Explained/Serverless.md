@@ -19,3 +19,6 @@ and to handle all this the framework is also available <a href = "https://www.se
 <img width="1349" height="500" alt="image" src="https://github.com/user-attachments/assets/ff162d93-ff77-4b70-ae15-b643391c6e48" />
 
 <hr>
+
+If I create a function and I need to provide the trigger. Trigger will decide when the code should run! so on alexa input or kafka? we'll select API GATEWAY. You'll have option to have API type as "HTTP API" (Build on low latency and cost effective REST API's with build in features such as OIDC and Oauth2 and Native CORS support) or "REST API" (Develop a REST API where you gain complete control over the request and response along with api Management capabilities).
+
