@@ -10,3 +10,5 @@ Now we were thinking of single user but suppose 1000+ users are trying to hit th
 
 Checkout Lamda Pricing: <a href="https://aws.amazon.com/lambda/pricing/">Amazon Lamda </a>
 
+and to handle all this the framework is also available <a href = "https://www.serverless.com/"> Serverless </a>
+
