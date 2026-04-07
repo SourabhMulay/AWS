@@ -8,3 +8,6 @@ The main benefit is in the cost and operational model. In traditional systems, y
 
 
 Now we were thinking of single user but suppose 1000+ users are trying to hit the same function or API (which again calls the function). so in that case serverless will do, it will create the copies of your code to handle those requests. that code is actually a AWS Lamda function. 
+
+checkout Lamda Pricing: <a href="https://aws.amazon.com/lambda/pricing/">Amazon Lamda </a>
+
